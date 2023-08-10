@@ -15,5 +15,6 @@
   - [Google Cloud Certified Cloud Digital Leader](https://www.credential.net/f6c8d063-257b-4dc6-a68d-b5c5bc75ee79?key=8dd993a041147df6aac23be941c762c1f83e551561c0c65f75e2f7a132177fdd)
   - [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/a35f8514-414c-43df-bb2a-0fa3ff7e5b64)
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5ddc0907-0fde-45d0-a9c2-7eb6d918ee40/public_url)
+  - [AWS Certified Developer – Associate](https://www.credly.com/badges/f64ff104-b64a-4a9b-99c0-09397d2cf923/public_url)
 
 - 🔗 Find me @ [LinkedIn](https://www.linkedin.com/in/jonas-miederer/) & [Instagram](https://www.instagram.com/jonas___mj/)
