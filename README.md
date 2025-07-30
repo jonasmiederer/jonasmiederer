@@ -15,6 +15,7 @@
   - [Google Cloud Certified Cloud Digital Leader](https://www.credential.net/f6c8d063-257b-4dc6-a68d-b5c5bc75ee79?key=8dd993a041147df6aac23be941c762c1f83e551561c0c65f75e2f7a132177fdd)
   - [Google Cloud Certified Associate Cloud Engineer](https://www.credential.net/a35f8514-414c-43df-bb2a-0fa3ff7e5b64)
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5ddc0907-0fde-45d0-a9c2-7eb6d918ee40/public_url)
+  - [AWS Certified AI Practitioner](https://www.credly.com/badges/556dce0f-c55d-4acb-8e33-9856de61ce72/public_url)
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/f64ff104-b64a-4a9b-99c0-09397d2cf923/public_url)
   - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/8365ac22-7660-40d0-ab70-fa9f53f761ef/public_url)
   - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/c64ce7ef-490b-407a-8455-7d4d1156047f/public_url)
