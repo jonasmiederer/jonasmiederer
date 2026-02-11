@@ -17,6 +17,7 @@
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5ddc0907-0fde-45d0-a9c2-7eb6d918ee40/public_url)
   - [AWS Certified AI Practitioner](https://www.credly.com/badges/556dce0f-c55d-4acb-8e33-9856de61ce72/public_url)
   - [AWS Certified Developer – Associate](https://www.credly.com/badges/f64ff104-b64a-4a9b-99c0-09397d2cf923/public_url)
+  - [AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/c3df37b2-118b-486c-b842-96cd1125f8c8/public_url)
   - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/8365ac22-7660-40d0-ab70-fa9f53f761ef/public_url)
   - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/c64ce7ef-490b-407a-8455-7d4d1156047f/public_url)
 - 🔗 Find me @ [LinkedIn](https://www.linkedin.com/in/jonas-miederer/) & [Instagram](https://www.instagram.com/jonas___mj/)
