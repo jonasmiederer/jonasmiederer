@@ -20,4 +20,5 @@
   - [AWS Certified Machine Learning Engineer – Associate](https://www.credly.com/badges/c3df37b2-118b-486c-b842-96cd1125f8c8/public_url)
   - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/8365ac22-7660-40d0-ab70-fa9f53f761ef/public_url)
   - [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/c64ce7ef-490b-407a-8455-7d4d1156047f/public_url)
+  - [AWS Certified Generative AI Developer - Professional](https://www.credly.com/badges/6a9916b9-230f-438d-a92e-626d10d6cf0b/public_url)
 - 🔗 Find me @ [LinkedIn](https://www.linkedin.com/in/jonas-miederer/) & [Instagram](https://www.instagram.com/jonas___mj/)
